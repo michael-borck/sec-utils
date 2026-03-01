@@ -1,5 +1,9 @@
 # Docker Compose: Network Security Toolkit
 
+<!-- BADGES:START -->
+[![cli-tool](https://img.shields.io/badge/-cli--tool-blue?style=flat-square)](https://github.com/topics/cli-tool) [![docker](https://img.shields.io/badge/-docker-2496ed?style=flat-square)](https://github.com/topics/docker) [![docker-compose](https://img.shields.io/badge/-docker--compose-blue?style=flat-square)](https://github.com/topics/docker-compose) [![haproxy](https://img.shields.io/badge/-haproxy-blue?style=flat-square)](https://github.com/topics/haproxy) [![network-security](https://img.shields.io/badge/-network--security-blue?style=flat-square)](https://github.com/topics/network-security) [![security-utilities](https://img.shields.io/badge/-security--utilities-blue?style=flat-square)](https://github.com/topics/security-utilities) [![wireshark](https://img.shields.io/badge/-wireshark-blue?style=flat-square)](https://github.com/topics/wireshark) [![cybersecurity](https://img.shields.io/badge/-cybersecurity-f44336?style=flat-square)](https://github.com/topics/cybersecurity) [![networking](https://img.shields.io/badge/-networking-blue?style=flat-square)](https://github.com/topics/networking) [![penetration-testing](https://img.shields.io/badge/-penetration--testing-blue?style=flat-square)](https://github.com/topics/penetration-testing)
+<!-- BADGES:END -->
+
 This repository contains a `docker-compose.yaml` file that sets up a Network Security Toolkit with HAProxy, Wireshark, and Security Utilities. The provided `docker-compose.yaml` file creates a custom Docker network and connects all services to it.
 
 ## Services
