@@ -1,3 +1,10 @@
+> [!NOTE]
+> **This repository is archived and read-only.**
+>
+> It has been superseded by [**ethical-hacking-docker-labs**](https://github.com/michael-borck/ethical-hacking-docker-labs), where this lab is maintained as [`labs/week1`](https://github.com/michael-borck/ethical-hacking-docker-labs/tree/main/labs/week1). The maintained version pulls the prebuilt `ghcr.io/michael-borck/ethical-base` image and adds an attacker container.
+>
+> Please use the lab series instead. This repository is preserved for reference only.
+
 # Docker Compose: Network Security Toolkit
 
 <!-- BADGES:START -->
